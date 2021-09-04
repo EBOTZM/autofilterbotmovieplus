@@ -7,28 +7,28 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/M-STER-YT",
+    "website": "https://github.com/EBOTZM",
     "repository": "https://github.com/EBOTZM/autofilterbotmovieplus",
     "success_url": "https://telegram.dog/E_BOTZ",
     "env": {
         "APP_ID": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "@s4h_api_idbot",
             "value": ""
         },
         "API_HASH": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "@s4h_api_idbot",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "@BotFather",
             "value": ""
         },
         "DB_URI": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "https://mangodb.com",
             "value": ""
         },
         "USER_SESSION": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "click 👉 https://replit.com/@CYBERDUDE3/String-Gen-1",
             "value": ""
         }
     },
