@@ -30,7 +30,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = caption,
+                caption = file="<code}>{file_name}-@srsuggestionsofficial.mkv </code> \n <b>🌀 GROUP 🌀 - @Movie_Pluz \n 🌀 CHANNEL 🌀 - @srsuggestionsmc \n \n ⭐ THANK YOU ⭐</b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/M_STER_TECH"
+                                    '🎀 JOIN CHANNEL 🎀', url="https://t.me/srsuggestionsmc"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/M_STER_TECH"
+                                    'Developers', url="https://t.me/E_BOTZ"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/M_STER_TECH"
+                                    'Developers', url="https://t.me/E_BOTZ"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/M_STER_TECH'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Developers', url='https://t.me/E_BOTZ'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/punisherofc_Bot')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/M_SRER_TECH_GROUP')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/E_BOTZ')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
