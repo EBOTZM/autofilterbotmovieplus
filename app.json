@@ -1,15 +1,15 @@
 {
-    "name": "M-STER Auto Filter Bot V4",
+    "name": "E BOTZ Auto Filter Bot V2",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/05b0ad0da32eb0ba24e1e.png",
+    "logo": "https://telegra.ph/file/e7f9804cedbf41fe7cac0.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
     "website": "https://github.com/M-STER-YT",
-    "repository": "https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/M_STER_TECH",
+    "repository": "https://github.com/EBOTZM/autofilterbotmovieplus",
+    "success_url": "https://telegram.dog/E_BOTZ",
     "env": {
         "APP_ID": {
             "description": "vediode thaye und athilude edukaam",
